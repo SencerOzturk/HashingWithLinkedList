@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.hafta 2", "6.hafta 2.csproj", "{AE91A408-FF89-49C6-BF74-219143A6F6A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE91A408-FF89-49C6-BF74-219143A6F6A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE91A408-FF89-49C6-BF74-219143A6F6A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE91A408-FF89-49C6-BF74-219143A6F6A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE91A408-FF89-49C6-BF74-219143A6F6A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0D09910-C63C-4CB7-BED4-EFFAC038C09E}
+	EndGlobalSection
+EndGlobal
